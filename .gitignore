@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore local IDE settings
+.vscode/
+
+# Ignore data files
+# data/
+
+# Ignore other unwanted files
+test_transformation.ipynb
+no-user-agent.py
+optimized.py
