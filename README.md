@@ -51,33 +51,6 @@ The transformation detects 'GB' or 'gb' values in product titles to assign:
 
 The transformation process includes checks to remove non-phone products that might have been scraped under incorrect categories. This ensures only mobile phone data is processed further.
 
-## Visualizations
-
-To enhance the understanding of the transformed data, several visualizations have been created.
-
-### 1. **Price Distribution**
-
-Visualizing the distribution of prices across products to identify common price ranges:
-
-![Price Distribution](path_to_image/price_distribution.png)
-
-### 2. **Model Popularity by Brand**
-
-A bar chart showing the count of models by brand:
-
-![Model Popularity](path_to_image/model_popularity.png)
-
-### 3. **RAM vs. Storage Capacity**
-
-A scatter plot comparing RAM and storage capacities across products:
-
-![RAM vs Storage](path_to_image/ram_vs_storage.png)
-
-### 4. **Ratings vs. Price**
-
-Visualizing the relationship between product ratings and price:
-
-![Ratings vs Price](path_to_image/ratings_vs_price.png)
 
 ## Future Enhancements
 
